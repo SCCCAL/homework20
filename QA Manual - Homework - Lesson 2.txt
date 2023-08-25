@@ -1,0 +1,128 @@
+﻿Beet Seed 
+
+
+1 - Xiaomi Fan test
+
+
+I have chosen to test a Xiomi Fan.
+
+
+I started by searching online for what's important when testing a fan, here's what I found:
+1. Check the type of fan – whether the fan is ceiling fan or table fan
+2. Verify the number of blades on the fan
+3. Verify the ON-OFF functionality of fan
+4. Verify if the fan works normally-throws wind on the right direction
+5. Verify the material of which fan’s blade and other parts are made
+6. Check the voltage/power requirement of the fan
+7. Verify the maximum speed of fan
+8. Check the minimum speed of the fan
+9. Verify that the speed of fan can be regulated using regulator
+10. Verify that when in motion, the fan should not wobble
+11. Check the length of the fan rod and blades
+12. Verify that the weight of the fan is as per the specifications
+13. Verify that the color of the fan is as per the specifications
+14. Check the effect of voltage fluctuation on fan when in motion
+15. Check the effect of sudden electricity outage on fan’s motor and other electrical parts
+16. Verify the fan’s condition when continuously switched on for very large duration
+17. Check if there is any lifetime of fan’s internal parts or the body
+18. Check if the blades of the fan can be bend or not, check if its material is brittle
+19. Check the time taken by fan to attain maximum speed, when switched ON
+I then looked for the fan specifications online:
+https://www.mi.com/uk/product/mi-smart-standing-fan-2/specs
+The next step was to understand if all the tests suggested from the above list would apply to my fan, and which ones I could actually conduct since I´m home and I don't have the means to run all of those, so I reorganized the list starting with the most relevant ones for my needs, here's how this list looks after:
+1. Check the voltage/power requirement of the fan
+2. Verify the ON-OFF functionality of fan
+3. Verify the maximum speed of fan
+4. Check the minimum speed of the fan
+5. Verify that the speed of fan can be regulated using regulator
+6. Verify if the fan works normally-throws wind on the right direction
+7. Verify the material of which fan’s blade and other parts are made
+8. Verify that the weight of the fan is as per the specifications
+9. Verify that the color of the fan is as per the specifications
+I then run the tests. 
+I have chosen to test the Check the voltage/power requirement of the fan to ensure it´s compatible with the outlets in my house and because without completing this step I could not complete any other one.
+
+
+
+
+2 - 
+Verification - Process of checking the work products to decide whether the product meets the specified requirements. To decide if the product is being developed right or not. Happens before Validation. 
+
+
+Validation - Process of checking if the product meets the customers expectations, to decide if the right product is being developed or not. Happens after Verification. 
+
+
+Beet Sprout  
+
+
+3.
+
+
+Type of IT company
+	Pros
+	Cons
+	Product
+	* Long term projects
+* Constant work environment 
+* Possibility of mentoring and additional learning
+	* Limited set of skills
+* Professional burnout 
+	Startup
+	* Flat hierarchy
+* Flexible hours
+* Opportunity to grow
+* autonomy
+	* Lack of structure 
+* Constant change 
+* Job uncertainty /Risk
+* Lack of benefit
+	Outsource
+	* Access to new projects
+* Possibility to develop new skills 
+* Remote work
+	* Job loss and job security
+* Cultural challenges
+* Reduced autonomy
+	Outstaff
+	* Different jobs opportunities
+* Professional development
+
+
+	* Lack of job security
+* Team motivation
+* Time zones
+	Academy
+	* Networking
+* Skill development 
+* Personal growth 
+	* Time commitment
+* Limited autonomy
+
+
+	Recruitment Agency
+	*  Fast Hiring process
+* Skill matching
+* Flexibility 
+	* Cultural issues
+* High employee turn over
+	
+
+3 -
+ Recently I have bought a pool for my daughter. I had to buy a pool pump to filter the water. I went online to look at pumps, and got one.  I installed it and only later I realized that the pump was not the adequate one for the pool I have. This was unsuccessful validation, as the pump meet the specified requirements but not the intended use (it was my fault)
+
+
+When my daughter was just a baby I bought her a pram that was really unstable. As soon as I let go of the handles it would just fall back (with the baby on it). I can only assume that the manufacturer has overlooked the stability and tipping hazards during the verification process as it  was prone to tipping. 
+
+
+Mighty Beet 
+
+
+2 - 
+
+
+The Pesticide Paradox is an important testing principle because it serves as a reminder that repetitive and unchanged testing strategies may become ineffective over time. Testers need to periodically review and update their testing approaches to ensure that new or evolving risks and scenarios are adequately addressed.
+I do not have any examples to share regarding software testing, but I can share a not related one. Antibiotics: they will stop being efficient to get rid of certain bacteria if they are overused, same as pesticides will stop killing intended bugs.
+
+
+Early Testing is a principle that emphasizes starting testing activities as early as possible in the software development lifecycle.  It’s Important because It allows for the identification and resolution of defects at an early stage, reducing the overall cost and effort required for bug fixes. Early testing also provides valuable feedback to the development team, helping them improve the quality of the software.
+Same as before I do not have any experience in Software testing, so I will use another example: I crochet as a hobby, crochet is complex and it usually depends on the use of patterns with instructions to make garments, working in rows. Such instructions include increases and decreases of stitches, multiplication, etc. Once you start a pattern you need to be very careful to be sure you following it correctly, row by row, and if you make a mistake early on and you don’t find it, it can compromise the whole project, sometimes hours and hours are wasted because a mistake was made in row 3 and I only spot it in row 35 for example.
