@@ -1,0 +1,61 @@
+﻿Beet Seed - 
+ 
+Item to be tested: Desk Fan.
+
+
+Atomic:
+* The desk fan must have 3 speed settings: low, medium and high.
+* The desk fan must have an oscillation system that can be turned on and off.
+* The desk fan must have a tilt funcion to direct the airflow in the desired direction. 
+
+
+Consistent:
+* The desk fan must have a consistent air flow.
+* The desk fan must have a consistent noise level. 
+* The desk fan must have consistent labeled buttons that are placed intuitively.
+
+
+Testable:
+* The desk fun must be tested for performance to ensure that each different available airflow setting delivers the required speed.
+* The desk must be tested to ensure that the oscillation function to verify the coverage of the oscillation. 
+* The desk fan must be noise tested to ensure it meets the required defined noise levels requirements.
+
+
+Traceable:
+*  The desk fan must have a unique serial number.
+* The desk fan production process must be documented including parts sourcing and assembly steps.
+* The desk fan must  have a record of repair that has been completed on it, with dates and a full description of the repair that has been performed.
+
+
+
+
+Beet Sprout -
+
+
+In my opinion choosing just one of the previously described techniques would not ensure the highest level of quality for the final result: Only combining testing techniques such as the fan’s functionality, its performance and the user experience it is possible do address the various dimensions of quality, as these will depends on various factors, such as the complexity of the fan system, priority of the testing to be defined and what are the goals of the specific testing.
+ 
+
+
+Mighty Beet -
+
+
+Functional requirements:
+1.  User Registration -  the app will let users register by providing their email address and creating a password.
+2. Cat photo upload: the app must have a feature to let the user upload a picture of their cat.
+3. External output: the app will let the user connect to an external platform to share the uploaded photos on the app. 
+4. Internal search option: the app must have a function for users to look for another cat photos by breed, location, gender and #
+5. The app must let the users interact with each other, by liking, commenting and reacting to other users' photos.
+
+
+Non Functional requirements:
+1. The app should load in 0.3 seconds max
+2. The app should be compatible with android devices that run OS version 7.0, 8.0, 9, 10 and 11. 
+3. The app should be accessible to users regardless of their OS being Android or Mac OS.
+4. The date in the app should be displayed as DD/MM/YYYY.
+5. The app  must have the capability to have 5K users logged in at the same time. 
+6. The customer data on the app must be encrypted to level 4 encryption standards.
+7.  The app will only let the user login using an email already registered in its database with an accepted password. 
+
+
+ Extra Task: 
+As a website administrator I want to have a big banner on the homepage to display different sales.
